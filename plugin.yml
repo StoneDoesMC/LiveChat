@@ -1,0 +1,84 @@
+name: LiveChat
+author: Kyle
+version: 4.0
+main: me.kyle.livechat.Main
+website: http://dev.bukkit.org/bukkit-plugins/chat/
+description: LiveChat, make your server chat super awesome with tons of cool chat mechanics
+softdepend: [PlotMe, Factions, Vault]
+commands:
+    message: 
+        description: Send a private message to a player
+        aliases: [msg,m,lmessage, lmsg, lm, tell, ltell, pm, lpm, whisper, lwhisper]
+    reply: 
+        description: Reply to a message sent to you
+        aliases: [lreply,r,lr]
+    me: 
+        description: Emote an action
+        aliases: [lme, emote, lemote, action, laction]
+    ignore: 
+        description: Blocks messages or private messages from another player
+        aliases: [lignore]
+    mute: 
+        description: Mutes a player in the chat
+        aliases: [lmute, shutup, lshutup]
+    unmute: 
+        description: Unmutes a player in the chat
+        aliases: [lunmute]
+    socialspy: 
+        description: Read all players private messages
+        aliases: [lsocialspy, spy, lspy]
+    channel:
+        description: Base channel command
+        aliases: [lchannel, chan, lchan]
+    plotchat:
+        description: Switch to plot only chat
+        aliases: [lplotchat, pchat, lpchat, pc, lpc]
+    global:
+        description: Switch to global chat
+        aliases: [lglobal, g, lg]
+permissions:
+    livechat.sendmessage.global:
+        description: Allow player to talk in global chat
+        default: true
+    livechat.message:
+        description: Allow player to use /message command
+    livechat.message.color:
+        description: Allow player to use color in private messages
+    livechat.reply:
+        description: Allow player to use /reply command
+    livechat.me:
+        description: Allow player to use /me command
+    livechat.ignore:
+        description: Allow player to use /ignore command
+    livechat.mute:
+        description: Allow player to use /mute command
+    livechat.unmute:
+        description: Allow player to use /unmute command
+    livechat.socialspy:
+        description: Allow player to use /socialspy command
+    livechat.channel.create:
+        description: Use /channel create command
+    livechat.channel.list:
+        description: Use /channel list command
+    livechat.channel.join:
+        description: Use /channel join command
+    livechat.channel.leave:
+        description: Use /channel join command
+    livechat.channel.set.owner:
+        description: Use /channel set owner command
+    livechat.channel.set.pass:
+        description: Use /channel set pass command
+    livechat.channel.set.name:
+        description: Use /channel set name command
+    livechat.channel.set.admin:
+        description: Change all channel values no matter if you own the channel or not
+    livechat.channel.staff:
+        description: Join the staff channel
+    livechat.channel.admin:
+        description: Join the admin channel
+    livechat.chat.color:
+        description: Use color codes
+    livechat.chat.format:
+        description: Using formatting codes
+    livechat.chat.magic:
+        description: Using magic codes
