@@ -1,9 +1,11 @@
-.____    .__             _________ .__            __   
-|    |   |__|__  __ ____ \_   ___ \|  |__ _____ _/  |_ 
-|    |   |  \  \/ // __ \/    \  \/|  |  \\__  \\   __\
-|    |___|  |\   /\  ___/\     \___|   Y  \/ __ \|  |  
-|_______ \__| \_/  \___  >\______  /___|  (____  /__|  
-        \/             \/        \/     \/     \/      
+M██MMMMMMMMM██MM██MMMMM██MMM█████████MMM██████YMMM██MMMMM██MMMMP███████MMM████████M
+M██MMMMMMMMM██MM██MMMMM██MMM██mmmmmmmMM███mmm███MM██MMMMM██MMM███mmmm██MMMmmm██mmmM
+M██MMMMMMMMM██MM██MMMMP██MMM██████MMMMM██MMMMMooMM██████████MM██████████MMMMM██MMMM
+M██MMMMMMMMM██MM██MMMM███MMM██MMMMMMMMM██MMMMMMMMM██MMMMM██MMM██MMMMM██MMMMMM██MMMM
+M██MMMMMMMMM██MM██MMP███MMMM██MMMMMMMMM███MMM███MM██MMMMM██MMM██MMMMM██MMMMMM██MMMM
+M█████████MM██MM██████dMMMMM█████████MMM███████dMM██MMMMM██MMM██MMMMM██MMMMMM██MMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+
 By: @Kyle
  : Make your server chat super awesome with tons of cool chat mechanics
 
