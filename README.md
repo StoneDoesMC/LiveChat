@@ -1,11 +1,16 @@
-M██MMMMMMMM██M██MMMMM██M█████████MM██████YMM██MMMMM██MMP███████M████████
-M██MMMMMMMM██M██MMMMM██M██mmmmmmmM███mmm███M██MMMMM██M███mmmm██Mmmm██mmm
-M██MMMMMMMM██M██MMMMP██M██████MMMM██MMMMMooM█████████M█████████MMMM██MMM
-M██MMMMMMMM██M██MMMM███M██MMMMMMMM██MMMMMMMM██MMMMM██M██MMMMM██MMMM██MMM
-M██MMMMMMMM██M██MMP███MM██MMMMMMMM███MMM███M██MMMMM██M██MMMMM██MMMM██MMM
-M█████████M██M██████dMMM█████████MM███████dM██MMMMM██M██MMMMM██MMMM██MMM
-
- 
+M██MMMMMMMM██M██MMMMM██M█████████MMMMM
+M██MMMMMMMM██M██MMMMM██M██MMMMMMMMMMMM
+M██MMMMMMMM██M██MMMMM██M██████MMMMMMMM
+M██MMMMMMMM██M██MMMM███M██MMMMMMMMMMMM
+M██MMMMMMMM██M██MMM███MM██MMMMMMMMMMMM
+M█████████MM██M██████MMMM█████████MMMMM
+MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+M██████MMM██MMMMM██MMM███████MM████████
+███MMM███M██MMMMM██M███MMMM██MMMM██MMM
+██MMMMMMM██████████M██████████MMMM██MMM
+██MMMMMMM██MMMMM██M██MMMMM██MMMM██MMM
+███MMM███M██MMMMM██M██MMMMM██MMMM██MMM
+M███████MM██MMMMM██M██MMMMM██MMMM██MMM
 By: @Kyle
  : Make your server chat super awesome with tons of cool chat mechanics
 
